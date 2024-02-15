@@ -1,8 +1,5 @@
 <a name="readme-top"></a>
 
-
-[![LinkedIn]] (https://www.linkedin.com/in/sagi-vaknin-sv)
-
 <h3 align="center">Lane-Detection</h3>
 
   <p align="center">

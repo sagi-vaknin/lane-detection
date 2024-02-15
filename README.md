@@ -55,8 +55,8 @@ The program processes input videos and generates an output video with filled lan
 
 ## Contact
 
-Sagi Vaknin - sagivak1@gmail.com
-LinkedIn  - https://www.linkedin.com/in/sagi-vaknin-sv
+Sagi Vaknin - sagivak1@gmail.com <br>
+LinkedIn  - https://www.linkedin.com/in/sagi-vaknin-sv <br>
 Project Link: [https://github.com/sagi-vaknin/lane-detection](https://github.com/sagi-vaknin/lane-detection)
 
 

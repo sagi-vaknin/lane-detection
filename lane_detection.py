@@ -211,14 +211,15 @@ def frame_processor(image):
 
 
 #define input output properties etc.
-video_path = "input_videos/night.mov"
+#change the input video to be day.mp4 or night.mp4 as requested
+video_path = "input_videos/day.mp4"
 cap = cv2.VideoCapture(video_path)
-mode = video_path == "input_videos/night.mov"
+mode = video_path == "input_videos/night.mp4"
 
 if mode:
-	output_file_path = "output_videos/night_output.mov"
+	output_file_path = "output_videos/night_output.mp4"
 else:
-	output_file_path = "output_videos/day_output.mov"
+	output_file_path = "output_videos/day_output.mp4"
 
 fourcc = cv2.VideoWriter_fourcc(*'mp4v')
 output_video = cv2.VideoWriter(output_file_path, fourcc, 30.0, (int(cap.get(3)), int(cap.get(4))))

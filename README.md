@@ -30,10 +30,9 @@ The program processes input videos and generates an output video with filled lan
 
 
 ### Built With
-* <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" alt="python" width="70">
-* <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ANumPy_logo_2020.svg&psig=AOvVaw1pE57-tp05dSMdggizztGr&ust=1708082533671000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPin9LadrYQDFQAAAAAdAAAAABAE" alt="numPy" width="70">
-* <img src="[https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27753%2Fopencv&psig=AOvVaw2eU-rbGlG5knb2me8a6Mip&ust=1708082562841000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCO6sSdrYQDFQAAAAAdAAAAABAE)" alt="openCV" width="70">
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+* Python
+* numPy
+* openCV
 
 ## Contact
 
